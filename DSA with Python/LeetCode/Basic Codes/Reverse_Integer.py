@@ -1,6 +1,6 @@
 # 7. Reverse Integer
 # https://leetcode.com/problems/reverse-integer/
-# Difficulty: Medium
+# Difficulty: Medium level
 class Solution(object):
     def reverse(self, x):
         """
