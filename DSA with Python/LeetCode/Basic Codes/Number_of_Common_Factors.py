@@ -29,7 +29,5 @@ class Solution(object):
             for k in b_fact:
                 if(j==k):
                     count+=1
-            # else:
-            #     continue
         return count 
             
