@@ -11,19 +11,19 @@ class Solution(object):
         :rtype: int
         """
         # Approach:
-        # The task is to find the most common (non-banned) word in a paragraph.
-        # 1. Convert the entire paragraph to lowercase for case-insensitive comparison.
-        # 2. Parse each character:
-        #       - Build words from alphabetic characters.
-        #       - When encountering a non-alphabetic character, finalize the current word.
-        # 3. Add all parsed words into a list `words`.
-        # 4. Create a `set` from the banned words for O(1) lookup.
-        # 5. Count frequencies of all non-banned words using a dictionary `freq`.
-        # 6. Track the word with the highest frequency.
-        # 7. Return the most frequent non-banned word.
-        # Complexity:
-        #   - Time: O(n * k) — where n = number of strings, k = average string length.
-        #   - Space: O(n * k) — for storing frequency keys and grouped anagrams.
+        # Steps:
+        # 1. Preprocess all strings in `strs`:
+        #       - For each string, count its number of 0’s and 1’s.
+        #       - Store these counts in a list `counts`.
+        # 2. Use a recursive DFS function `dfs(i, m_left, n_left)`:
+        #       - `i` = current index in `strs`.
+        #       - `m_left`, `n_left` = remaining 0’s and 1’s that can be used.
+        # 3. For each string:
+        #       - Option 1: **Skip it** → move to next string.
+        #       - Option 2: **Take it** (if possible) → use up its 0’s and 1’s.
+        #       - Return the maximum of these two options.
+        # 4. Use **memoization** (`memo` dictionary) to cache intermediate results 
+        #    and avoid recalculating overlapping subproblems.
         counts = []
         for s in strs:
             zeros = s.count('0')
