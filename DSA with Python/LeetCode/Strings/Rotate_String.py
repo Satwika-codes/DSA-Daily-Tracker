@@ -15,5 +15,6 @@ class Solution(object):
         #   → Any rotation of s will appear as a substring in (s + s).
         # - Return True if goal exists in (s + s), otherwise False.
         # Time: O(n^2), Space: O(n)
+        # Time: O(n^2), Space: O(n)
         return len(s) == len(goal) and goal in (s + s)
         
