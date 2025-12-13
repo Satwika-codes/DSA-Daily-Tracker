@@ -4,6 +4,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Satwika-codes/DSA-Daily-Tracker?color=green)
 
 This repository documents my daily practice of Data Structures & Algorithms (DSA) problems. Solutions are organized by topic for clean navigation, consistent learning, and strong interview preparation.
+This repo tracks my day-to-day DSA learning journey — solutions are added as I solve and understand them.
 
 🗂️ Repository Structure
 
