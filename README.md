@@ -11,12 +11,15 @@ Solutions are organized into topic folders:
 
 - Arrays/
 - Strings/
-- LinkedList/
-- Stacks/
-- Queues/
-- Trees/
-- Graphs/
-- DynamicProgramming/
+- Hashmaps(upcoming)/
+- Two Pointers(upcoming)/
+- Sliding window(upcoming)/
+- LinkedList(upcoming)/
+- Stacks(upcoming)/
+- Queues(upcoming)/
+- Trees(upcoming)/
+- Graphs(upcoming)/
+- DynamicProgramming(upcoming)/
 
 Each folder contains solution files clearly named after the problem solved.
 
