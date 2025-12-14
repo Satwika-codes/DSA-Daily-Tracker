@@ -10,7 +10,7 @@ This repo tracks my day-to-day DSA learning journey — solutions are added as I
 
 
 
-         ![LeetCode Stats](https://leetcard.jacoblin.cool/D_LAKSHMI_SATWIKA_1?theme=light&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/D_LAKSHMI_SATWIKA_1?theme=light&font=Karma)
 
 🗂️ Repository Structure
 
