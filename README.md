@@ -196,7 +196,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 11th Dec 2025 | Rotate Array | ✅ |
 | 11th Dec 2025 | Find The Town Judge | ✅ |
 | 11th Dec 2025 | Assign Cookies | ✅ |
-
+| 13th Dec 2025 | Single Number III| ✅ |
+| 13th Dec 2025 | Longest Harmonious Subsequence| ✅ |
+| 13th Dec 2025 | Sum of Unique Elements| ✅ |
+| 13th Dec 2025 | Two Sum| ✅ |
 </details>
 
 📌 How to Use
