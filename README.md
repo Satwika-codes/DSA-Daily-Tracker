@@ -200,6 +200,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 13th Dec 2025 | Longest Harmonious Subsequence| ✅ |
 | 13th Dec 2025 | Sum of Unique Elements| ✅ |
 | 13th Dec 2025 | Two Sum| ✅ |
+| 14th Dec 2025 | Set Matrix Zeroes| ✅ |
+| 14th Dec 2025 | Design Hashmap| ✅ |
 </details>
 
 📌 How to Use
