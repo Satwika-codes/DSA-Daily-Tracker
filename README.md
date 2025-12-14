@@ -7,6 +7,9 @@
 
 This repository documents my daily practice of Data Structures & Algorithms (DSA) problems. Solutions are organized by topic for clean navigation, consistent learning, and strong interview preparation.
 This repo tracks my day-to-day DSA learning journey — solutions are added as I solve and understand them.
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/D_LAKSHMI_SATWIKA_1?theme=light&font=Karma)
 
 🗂️ Repository Structure
