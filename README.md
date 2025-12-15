@@ -2,9 +2,15 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-11-blue?logo=c%2B%2B&logoColor=white)
 ![Last Commit](https://img.shields.io/github/last-commit/Satwika-codes/DSA-Daily-Tracker?color=green)
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue)
+![Consistency](https://img.shields.io/badge/Consistency-Daily%20Practice-success)
 
 This repository documents my daily practice of Data Structures & Algorithms (DSA) problems. Solutions are organized by topic for clean navigation, consistent learning, and strong interview preparation.
 This repo tracks my day-to-day DSA learning journey — solutions are added as I solve and understand them.
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/D_LAKSHMI_SATWIKA_1?theme=light&font=Karma)
 
 🗂️ Repository Structure
 
@@ -200,6 +206,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 13th Dec 2025 | Longest Harmonious Subsequence| ✅ |
 | 13th Dec 2025 | Sum of Unique Elements| ✅ |
 | 13th Dec 2025 | Two Sum| ✅ |
+| 14th Dec 2025 | Set Matrix Zeroes| ✅ |
+| 14th Dec 2025 | Design Hashmap| ✅ |
 </details>
 
 📌 How to Use
