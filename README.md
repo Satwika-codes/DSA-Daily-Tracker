@@ -209,6 +209,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 14th Dec 2025 | Set Matrix Zeroes| ✅ |
 | 15th Dec 2025 | Bulls and Cows| ✅ |
 | 15th Dec 2025 | Buddy Strings| ✅ |
+| 16th Dec 2025 | Contiguous Array| ✅ |
+| 16th Dec 2025 | Fair Candy Swap| ✅ |
 
 </details>
 
