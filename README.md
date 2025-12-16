@@ -207,7 +207,9 @@ Each folder contains solution files clearly named after the problem solved.
 | 13th Dec 2025 | Sum of Unique Elements| ✅ |
 | 13th Dec 2025 | Two Sum| ✅ |
 | 14th Dec 2025 | Set Matrix Zeroes| ✅ |
-| 14th Dec 2025 | Design Hashmap| ✅ |
+| 15th Dec 2025 | Bulls and Cows| ✅ |
+| 15th Dec 2025 | Buddy Strings| ✅ |
+
 </details>
 
 📌 How to Use
