@@ -211,7 +211,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 15th Dec 2025 | Buddy Strings| ✅ |
 | 16th Dec 2025 | Contiguous Array| ✅ |
 | 16th Dec 2025 | Fair Candy Swap| ✅ |
-
+| 17th Dec 2025 | Find all Duplicates in an Array| ✅ |
+| 17th Dec 2025 | Set Mismatch| ✅ |
 </details>
 
 📌 How to Use
