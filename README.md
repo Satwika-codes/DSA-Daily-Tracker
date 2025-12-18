@@ -1,7 +1,7 @@
 📚 DSA Daily Tracker
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-11-blue?logo=c%2B%2B&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/Satwika-codes/DSA-Daily-Tracker?color=green)
+![Last Commit](https://img.shields.io/github/last-commit/Satwika-codes/DSA-Daily-Tracker)
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue)
 ![Consistency](https://img.shields.io/badge/Consistency-Daily%20Practice-success)
 
@@ -211,7 +211,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 15th Dec 2025 | Buddy Strings| ✅ |
 | 16th Dec 2025 | Contiguous Array| ✅ |
 | 16th Dec 2025 | Fair Candy Swap| ✅ |
-
+| 17th Dec 2025 | Find all Duplicates in an Array| ✅ |
+| 17th Dec 2025 | Set Mismatch| ✅ |
 </details>
 
 📌 How to Use
