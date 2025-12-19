@@ -215,6 +215,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 17th Dec 2025 | Set Mismatch| ✅ |
 | 18th Dec 2025 | Top K frequent elements| ✅ |
 | 18th Dec 2025 | Distribute Candies| ✅ |
+| 19th Dec 2025 | Substring with concatenation of all words| ✅ |
+| 19th Dec 2025 | Happy Number| ✅ |
 </details>
 
 📌 How to Use
