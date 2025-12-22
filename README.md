@@ -218,7 +218,11 @@ Each folder contains solution files clearly named after the problem solved.
 | 19th Dec 2025 | Substring with concatenation of all words| ✅ |
 | 19th Dec 2025 | Happy Number| ✅ |
 | 20th Dec 2025 | Max Points On a Line| ✅ |
-| 19th Dec 2025 | Relative Sort Array| ✅ |
+| 20th Dec 2025 | Relative Sort Array| ✅ |
+| 21th Dec 2025 | Count Unique Characters of all substrings of a given string | ✅ |
+| 21th Dec 2025 | Find common characters| ✅ |
+
+
 
 </details>
 
