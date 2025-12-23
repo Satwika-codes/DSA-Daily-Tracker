@@ -221,6 +221,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 20th Dec 2025 | Relative Sort Array| ✅ |
 | 21th Dec 2025 | Count Unique Characters of all substrings of a given string | ✅ |
 | 21th Dec 2025 | Find common characters| ✅ |
+| 22nd Dec 2025 | Palindrome Pairs| ✅ |
+| 22th Dec 2025 | Two Out Of Three| ✅ |
 
 
 
