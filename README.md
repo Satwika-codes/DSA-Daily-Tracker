@@ -223,6 +223,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 21th Dec 2025 | Find common characters| ✅ |
 | 22nd Dec 2025 | Palindrome Pairs| ✅ |
 | 22th Dec 2025 | Two Out Of Three| ✅ |
+| 23rd Dec 2025 | Similar String Groups| ✅ |
+| 23rd Dec 2025 | Number of Good Pairs| ✅ |
 
 
 
