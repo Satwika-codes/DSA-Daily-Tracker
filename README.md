@@ -225,6 +225,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 22th Dec 2025 | Two Out Of Three| ✅ |
 | 23rd Dec 2025 | Similar String Groups| ✅ |
 | 23rd Dec 2025 | Number of Good Pairs| ✅ |
+| 24th Dec 2025 | Perfect Rectangle| ✅ |
+| 24th Dec 2025 | Count Largest Group| ✅ |
 
 
 
