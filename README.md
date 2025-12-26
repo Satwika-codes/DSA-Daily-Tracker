@@ -227,6 +227,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 23rd Dec 2025 | Number of Good Pairs| ✅ |
 | 24th Dec 2025 | Perfect Rectangle| ✅ |
 | 24th Dec 2025 | Count Largest Group| ✅ |
+| 25th Dec 2025 | Number of Atoms| ✅ |
+| 25th Dec 2025 | Rings and Rods | ✅ |
 
 
 
