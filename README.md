@@ -231,6 +231,16 @@ Each folder contains solution files clearly named after the problem solved.
 | 25th Dec 2025 | Rings and Rods | ✅ |
 | 26th Dec 2025 | Number of Good Paths | ✅ |
 | 26th Dec 2025 | Longest Nice Substring | ✅ |
+| 27th Dec 2025 | K-Similar Srings | ✅ |
+| 27th Dec 2025 | Destination City | ✅ |
+| 28th Dec 2025 | Subarrays with K Different Integers| ✅ |
+| 28th Dec 2025 | Increasing Decreasing Strings| ✅ |
+| 29th Dec 2025 | Prefix and Suffix Search | ✅ |
+| 29th Dec 2025 | Find words that can be formed by characters | ✅ |
+
+
+
+
 
 
 
