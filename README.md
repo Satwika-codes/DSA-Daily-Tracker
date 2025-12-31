@@ -237,6 +237,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 28th Dec 2025 | Increasing Decreasing Strings| ✅ |
 | 29th Dec 2025 | Prefix and Suffix Search | ✅ |
 | 29th Dec 2025 | Find words that can be formed by characters | ✅ |
+| 30th Dec 2025 |Minimum Window Substring | ✅ |
+| 30th Dec 2025 |Maximum Number of Balloons| ✅ |
 
 
 
