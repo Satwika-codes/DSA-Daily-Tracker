@@ -1,7 +1,7 @@
 # PROBLEM NUMBER: 1995
 # https://leetcode.com/problems/count-special-quadruplets/
 # 1995.Count Special Quadruplets
-# DIFFICULTY: EASY
+# DIFFICULTY:EASY
 class Solution(object):
     def countQuadruplets(self, nums):
         """
