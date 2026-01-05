@@ -250,6 +250,8 @@ Each folder contains solution files clearly named after the problem solved.
 </details>
 <details>
 <summary>January 2026</summary>
+| Date | Problem Name | Status |
+|------|--------------|--------|
 |  1st Jan 2026 |Find Longest awesome substring| ✅ |
 |  1st Jan 2026 |Kth distinct String in Array| ✅ |
 |  2nd Jan 2026 |Maximum equal Frequency| ✅ |
