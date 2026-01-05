@@ -239,7 +239,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 29th Dec 2025 | Find words that can be formed by characters | ✅ |
 | 30th Dec 2025 |Minimum Window Substring | ✅ |
 | 30th Dec 2025 |Maximum Number of Balloons| ✅ |
-
+| 31st Dec 2025 |Find a good subset of Matrix| ✅ |
+| 31st Dec 2025 |Check Array Formation through Concatenation| ✅ |
 
 
 
