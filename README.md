@@ -250,7 +250,16 @@ Each folder contains solution files clearly named after the problem solved.
 </details>
 <details>
 <summary>January 2026</summary>
-
+|  1st Jan 2026 |Find Longest awesome substring| ✅ |
+|  1st Jan 2026 |Kth distinct String in Array| ✅ |
+|  2nd Jan 2026 |Maximum equal Frequency| ✅ |
+|  2nd Jan 2026 |Count special Quadrapulets| ✅ |
+|  3rd Jan 2026 |Number of excellent pairs| ✅ |
+|  3rd Jan 2026 |Sort Characters by Frequency| ✅ |
+|  4th Jan 2026 |Count pairs of nodes| ✅ |
+|  4th Jan 2026 |Continuos Subarray Sum| ✅ |
+|  5th Jan 2026 |Minimum Reverse Operations| ✅ |
+|  5th Jan 2026 |Reorganize String| ✅ |
 
 📌 How to Use
 
