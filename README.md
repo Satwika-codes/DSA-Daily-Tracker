@@ -247,6 +247,9 @@ Each folder contains solution files clearly named after the problem solved.
 
 
 </details>
+<details>
+<summary>January 2026</summary>
+
 
 📌 How to Use
 
