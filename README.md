@@ -261,6 +261,9 @@ Each folder contains solution files clearly named after the problem solved.
 |  5th Jan 2026 |Minimum Reverse Operations| ✅ |
 |  5th Jan 2026 |Reorganize String| ✅ |
 
+
+</details>
+
 📌 How to Use
 
 - Browse folders to explore categorized solutions  
