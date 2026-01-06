@@ -239,11 +239,30 @@ Each folder contains solution files clearly named after the problem solved.
 | 29th Dec 2025 | Find words that can be formed by characters | ✅ |
 | 30th Dec 2025 |Minimum Window Substring | ✅ |
 | 30th Dec 2025 |Maximum Number of Balloons| ✅ |
+| 31st Dec 2025 |Find a good subset of Matrix| ✅ |
+| 31st Dec 2025 |Check Array Formation through Concatenation| ✅ |
 
 
 
 
 
+
+</details>
+<details>
+<summary>January 2026</summary>
+  
+| Date | Problem Name | Status |
+|------|--------------|--------|
+|  1st Jan 2026 |Find Longest Awesome substring| ✅ |
+|  1st Jan 2026 |Kth distinct String in Array| ✅ |
+|  2nd Jan 2026 |Maximum equal Frequency| ✅ |
+|  2nd Jan 2026 |Count special Quadruplets| ✅ |
+|  3rd Jan 2026 |Number of excellent pairs| ✅ |
+|  3rd Jan 2026 |Sort Characters by Frequency| ✅ |
+|  4th Jan 2026 |Count pairs of nodes| ✅ |
+|  4th Jan 2026 |Continuous Subarray Sum| ✅ |
+|  5th Jan 2026 |Minimum Reverse Operations| ✅ |
+|  5th Jan 2026 |Reorganize String| ✅ |
 
 
 </details>
