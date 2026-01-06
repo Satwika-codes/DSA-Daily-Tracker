@@ -263,6 +263,8 @@ Each folder contains solution files clearly named after the problem solved.
 |  4th Jan 2026 |Continuous Subarray Sum| ✅ |
 |  5th Jan 2026 |Minimum Reverse Operations| ✅ |
 |  5th Jan 2026 |Reorganize String| ✅ |
+|  6th Jan 2026 |The Number of good subsets| ✅ |
+|  6th Jan 2026 |Delete and Earn| ✅ |
 
 
 </details>
