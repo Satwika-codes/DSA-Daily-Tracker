@@ -265,6 +265,8 @@ Each folder contains solution files clearly named after the problem solved.
 |  5th Jan 2026 |Reorganize String| ✅ |
 |  6th Jan 2026 |The Number of good subsets| ✅ |
 |  6th Jan 2026 |Delete and Earn| ✅ |
+|  7th Jan 2026 |Total Appeal of a string| ✅ |
+|  7th Jan 2026 |Subarray Sum Equals K| ✅ |
 
 
 </details>
