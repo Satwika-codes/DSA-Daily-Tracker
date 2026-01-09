@@ -267,7 +267,8 @@ Each folder contains solution files clearly named after the problem solved.
 |  6th Jan 2026 |Delete and Earn| ✅ |
 |  7th Jan 2026 |Total Appeal of a string| ✅ |
 |  7th Jan 2026 |Subarray Sum Equals K| ✅ |
-
+|  8th Jan 2026 |Remove Invalid Parentheses| ✅|
+|  8th Jan 2026 |Replace Words| ✅ |
 
 </details>
 
