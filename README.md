@@ -271,6 +271,16 @@ Each folder contains solution files clearly named after the problem solved.
 |  8th Jan 2026 |Replace Words| ✅ |
 |  9th Jan 2026 |Recover original Array| ✅ |
 |  9th Jan 2026 |Top K frequent words| ✅ |
+|  10th Jan 2026 |Sorted GCD Pair Queries| ✅ |
+|  10th Jan 2026 |Degree of a Array| ✅ |
+|  11th Jan 2026 |Count complete Substring| ✅ |
+|  11th Jan 2026 |Non decreasing Subsequences| ✅ |
+
+
+
+
+
+
 
 
 </details>
