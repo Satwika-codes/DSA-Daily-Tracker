@@ -269,6 +269,9 @@ Each folder contains solution files clearly named after the problem solved.
 |  7th Jan 2026 |Subarray Sum Equals K| ✅ |
 |  8th Jan 2026 |Remove Invalid Parentheses| ✅|
 |  8th Jan 2026 |Replace Words| ✅ |
+|  9th Jan 2026 |Recover original Array| ✅ |
+|  9th Jan 2026 |Top K frequent words| ✅ |
+
 
 </details>
 
