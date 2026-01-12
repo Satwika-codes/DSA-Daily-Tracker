@@ -32,7 +32,7 @@ class Solution(object):
             freq = Counter(w)
             for c in freq:
                 max_freq[c] = max(max_freq[c], freq[c])
-
+                
         res = []
         for w in words1:
             freq = Counter(w)
