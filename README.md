@@ -275,6 +275,8 @@ Each folder contains solution files clearly named after the problem solved.
 |  10th Jan 2026 |Degree of a Array| ✅ |
 |  11th Jan 2026 |Count complete Substring| ✅ |
 |  11th Jan 2026 |Non decreasing Subsequences| ✅ |
+|  12th Jan 2026 |Match Substring After Replacement| ✅ |
+|  12th Jan 2026 |Word Subsets| ✅ |
 
 
 
