@@ -277,6 +277,8 @@ Each folder contains solution files clearly named after the problem solved.
 |  11th Jan 2026 |Non decreasing Subsequences| ✅ |
 |  12th Jan 2026 |Match Substring After Replacement| ✅ |
 |  12th Jan 2026 |Word Subsets| ✅ |
+|  13th Jan 2026 |Length of a longest valid substring| ✅ |
+|  13th Jan 2026 |Find and replace in String| ✅ |
 
 
 
