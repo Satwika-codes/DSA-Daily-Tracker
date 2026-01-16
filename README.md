@@ -279,6 +279,12 @@ Each folder contains solution files clearly named after the problem solved.
 |  12th Jan 2026 |Word Subsets| ✅ |
 |  13th Jan 2026 |Length of a longest valid substring| ✅ |
 |  13th Jan 2026 |Find and replace in String| ✅ |
+|  14th Jan 2026 |Longest uncommon Subsequence II| ✅ |
+|  14th Jan 2026 |Longest Component Size by common Factor| ✅ |
+|  15th Jan 2026 |Word Break II| ✅ |
+|  15th Jan 2026 |K-diff Pairs in an Array | ✅ |
+
+
 
 
 
