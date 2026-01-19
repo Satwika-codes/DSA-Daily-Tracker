@@ -283,6 +283,9 @@ Each folder contains solution files clearly named after the problem solved.
 |  14th Jan 2026 |Longest Component Size by common Factor| ✅ |
 |  15th Jan 2026 |Word Break II| ✅ |
 |  15th Jan 2026 |K-diff Pairs in an Array | ✅ |
+|  16th Jan 2026 |Count SubArrays with median K| ✅ |
+|  16th Jan 2026 |Custom Sort String| ✅ |
+
 
 
 
