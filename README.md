@@ -285,6 +285,19 @@ Each folder contains solution files clearly named after the problem solved.
 |  15th Jan 2026 |K-diff Pairs in an Array | ✅ |
 |  16th Jan 2026 |Count SubArrays with median K| ✅ |
 |  16th Jan 2026 |Custom Sort String| ✅ |
+|  17th Jan 2026 |Count the Number of Good Partitions| ✅ |
+|  17th Jan 2026 |Array of Doubled Pairs| ✅ |
+|  18th Jan 2026 |Count Beautiful Substrings II| ✅ |
+|  18th Jan 2026 |Most Frequent Following a key in an Array| ✅ |
+|  19th Jan 2026 |Find the Count of Good Integers| ✅ |
+|  19th Jan 2026 | Divide Array Into Equal Pairs| ✅ |
+
+
+
+
+
+
+
 
 
 
