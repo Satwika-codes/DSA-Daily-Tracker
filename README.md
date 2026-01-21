@@ -291,6 +291,9 @@ Each folder contains solution files clearly named after the problem solved.
 |  18th Jan 2026 |Most Frequent Following a key in an Array| ✅ |
 |  19th Jan 2026 |Find the Count of Good Integers| ✅ |
 |  19th Jan 2026 | Divide Array Into Equal Pairs| ✅ |
+|  20th Jan 2026 | Sum of Good Subsequences| ✅ |
+|  20th Jan 2026 | Second Largest Digit in a String| ✅ |
+
 
 
 
