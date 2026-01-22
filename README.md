@@ -295,6 +295,9 @@ Each folder contains solution files clearly named after the problem solved.
 |  20th Jan 2026 | Second Largest Digit in a String| ✅ |
 |  21st Jan 2026 | Is Subsequence | ✅ |
 |  21st Jan 2026 | Find the Duplicate Number| ✅ |
+|  22nd Jan 2026 | Number of Subarrays with Bounded Maximum| ✅ |
+|  22nd Jan 2026 | Duplicate Zeros| ✅ |
+
 
 
 
