@@ -299,6 +299,8 @@ Each folder contains solution files clearly named after the problem solved.
 |  22nd Jan 2026 | Duplicate Zeros| ✅ |
 |  23rd Jan 2026 | Longest Mountain in Array| ✅ |
 |  23rd Jan 2026 | Find the Array Concatenation Value| ✅ |
+|  24th Jan 2026 | Find K-th Smallest Pair Distance| ✅ |
+|  24th Jan 2026 |  Sort Array By Parity| ✅ |
 
 
 
