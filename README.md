@@ -300,7 +300,10 @@ Each folder contains solution files clearly named after the problem solved.
 |  23rd Jan 2026 | Longest Mountain in Array| ✅ |
 |  23rd Jan 2026 | Find the Array Concatenation Value| ✅ |
 |  24th Jan 2026 | Find K-th Smallest Pair Distance| ✅ |
-|  24th Jan 2026 |  Sort Array By Parity| ✅ |
+|  24th Jan 2026 | Sort Array By Parity| ✅ |
+|  25th Jan 2026 | Sort List | ✅ |
+|  25th Jan 2026 | Subsequence With the Minimum Score| ✅ |
+
 
 
 
