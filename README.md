@@ -297,6 +297,10 @@ Each folder contains solution files clearly named after the problem solved.
 |  21st Jan 2026 | Find the Duplicate Number| ✅ |
 |  22nd Jan 2026 | Number of Subarrays with Bounded Maximum| ✅ |
 |  22nd Jan 2026 | Duplicate Zeros| ✅ |
+|  23rd Jan 2026 | Longest Mountain in Array| ✅ |
+|  23rd Jan 2026 | Find the Array Concatenation Value| ✅ |
+
+
 
 
 
