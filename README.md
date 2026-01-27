@@ -305,6 +305,9 @@ Each folder contains solution files clearly named after the problem solved.
 |  25th Jan 2026 | Subsequence With the Minimum Score| ✅ |
 |  26th Jan 2026 | Closest Subsequence Sum| ✅ |
 |  26th Jan 2026 | Reverse Only Letters | ✅ |
+|  27th Jan 2026 | Create Maximum Number | ✅ |
+|  27th Jan 2026 | String Compression | ✅ |
+
 
 
 
