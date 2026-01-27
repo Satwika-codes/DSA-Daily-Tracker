@@ -303,6 +303,8 @@ Each folder contains solution files clearly named after the problem solved.
 |  24th Jan 2026 | Sort Array By Parity| ✅ |
 |  25th Jan 2026 | Sort List | ✅ |
 |  25th Jan 2026 | Subsequence With the Minimum Score| ✅ |
+|  26th Jan 2026 | Closest Subsequence Sum| ✅ |
+|  26th Jan 2026 | Reverse Only Letters | ✅ |
 
 
 
