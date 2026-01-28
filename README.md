@@ -307,6 +307,9 @@ Each folder contains solution files clearly named after the problem solved.
 |  26th Jan 2026 | Reverse Only Letters | ✅ |
 |  27th Jan 2026 | Create Maximum Number | ✅ |
 |  27th Jan 2026 | String Compression | ✅ |
+|  28th Jan 2026 | Get the Maximum Score | ✅ |
+|  28th Jan 2026 | Partition List | ✅ |
+
 
 
 
