@@ -309,6 +309,8 @@ Each folder contains solution files clearly named after the problem solved.
 |  27th Jan 2026 | String Compression | ✅ |
 |  28th Jan 2026 | Get the Maximum Score | ✅ |
 |  28th Jan 2026 | Partition List | ✅ |
+|  29th Jan 2026 | Longest word in dictionary through deleting | ✅ |
+|  29th Jan 2026 | Minimum Changes to Make K Semi-palindromes| ✅ |
 
 
 
