@@ -313,6 +313,9 @@ Each folder contains solution files clearly named after the problem solved.
 |  29th Jan 2026 | Minimum Changes to Make K Semi-palindromes| ✅ |
 |  30th Jan 2026 | Checking Existence of Edge Length Limited Paths| ✅ |
 |  30th Jan 2026 | Compare Version Numbers| ✅ |
+|  31st Jan 2026 | Count the Number of Incremovable Subarrays II| ✅ |
+|  31st Jan 2026 | Most Profit Assigning Work| ✅ |
+
 
 
 
