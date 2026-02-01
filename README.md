@@ -323,6 +323,7 @@ Each folder contains solution files clearly named after the problem solved.
 |------|--------------|--------|
 |1st Feb 2026| Palindromic Substrings| ✅ |
 |1st Feb 2026| Maximum Number of Non-overlapping Palindrome Substrings| ✅ |
+</details>
   
 
 📌 How to Use
