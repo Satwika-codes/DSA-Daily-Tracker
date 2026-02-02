@@ -315,34 +315,19 @@ Each folder contains solution files clearly named after the problem solved.
 |  30th Jan 2026 | Compare Version Numbers| ✅ |
 |  31st Jan 2026 | Count the Number of Incremovable Subarrays II| ✅ |
 |  31st Jan 2026 | Most Profit Assigning Work| ✅ |
+</details>
 
+<details>
+<summary>February 2026</summary>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Date | Problem Name | Status |
+|------|--------------|--------|
+| 1st Feb 2026 | Palindromic Substrings | ✅ |
+| 1st Feb 2026 | Maximum Number of Non-overlapping Palindrome Substrings | ✅ |
 
 </details>
+
+  
 
 📌 How to Use
 
