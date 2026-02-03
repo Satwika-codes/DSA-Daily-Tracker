@@ -324,6 +324,11 @@ Each folder contains solution files clearly named after the problem solved.
 |------|--------------|--------|
 | 1st Feb 2026 | Palindromic Substrings | ✅ |
 | 1st Feb 2026 | Maximum Number of Non-overlapping Palindrome Substrings | ✅ |
+| 2nd Feb 2026 | Find Beautiful Indices in the Given Array II | ✅ |
+| 2nd Feb 2026 | Next Greater Element III | ✅ |
+
+
+
 
 </details>
 
