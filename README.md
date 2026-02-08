@@ -336,6 +336,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 6th Feb 2026 | Remove Duplicates from Sorted List II | ✅ |
 | 7th Feb 2026 | Find Median from Data Stream | ✅ |
 | 7th Feb 2026 | Find K Closest Elements | ✅ |
+| 8th Feb 2026 | Minimum Number of Moves to Make Palindrome | ✅ |
+| 8th Feb 2026 | Container With Most Water | ✅ |
 
 
 
