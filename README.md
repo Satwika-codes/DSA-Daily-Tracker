@@ -328,6 +328,24 @@ Each folder contains solution files clearly named after the problem solved.
 | 2nd Feb 2026 | Next Greater Element III | ✅ |
 | 3rd Feb 2026 | Maximum Number of Tasks You Can Assign | ✅ |
 | 3rd Feb 2026 | Shortest Unsorted Continuous Subarray | ✅ |
+| 4th Feb 2026 | Maximum Number of Points From Grid Queries| ✅ |
+| 4th Feb 2026 | K-th Smallest Prime Fraction | ✅ |
+| 5th Feb 2026 | Maximum Score of a Good Subarray | ✅ |
+| 5th Feb 2026 | Permutation in String | ✅ |
+| 6th Feb 2026 | Trapping Rain Water | ✅ |
+| 6th Feb 2026 | Remove Duplicates from Sorted List II | ✅ |
+| 7th Feb 2026 | Find Median from Data Stream | ✅ |
+| 7th Feb 2026 | Find K Closest Elements | ✅ |
+
+
+
+
+
+
+
+
+
+
 
 
 
