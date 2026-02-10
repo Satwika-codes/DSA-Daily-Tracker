@@ -340,6 +340,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 8th Feb 2026 | Container With Most Water | ✅ |
 | 9th Feb 2026 | Partition Array Into Two Arrays to Minimize Sum Difference | ✅ |
 | 9th Feb 2026 | Swap Adjacent in LR String | ✅ |
+| 10th Feb 2026| Sum of Square Numbers| ✅ |
+| 10th Feb 2026| Sort Array By Parity II | ✅ |
 
 
 
