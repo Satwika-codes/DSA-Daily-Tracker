@@ -338,6 +338,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 7th Feb 2026 | Find K Closest Elements | ✅ |
 | 8th Feb 2026 | Minimum Number of Moves to Make Palindrome | ✅ |
 | 8th Feb 2026 | Container With Most Water | ✅ |
+| 9th Feb 2026 | Partition Array Into Two Arrays to Minimize Sum Difference | ✅ |
+| 9th Feb 2026 | Swap Adjacent in LR String | ✅ |
 
 
 
