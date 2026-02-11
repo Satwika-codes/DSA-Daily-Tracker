@@ -342,6 +342,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 9th Feb 2026 | Swap Adjacent in LR String | ✅ |
 | 10th Feb 2026| Sum of Square Numbers| ✅ |
 | 10th Feb 2026| Sort Array By Parity II | ✅ |
+| 11th Feb 2026| Friends Of Appropriate Ages| ✅ |
+| 11th Feb 2026| Find the Distance Value Between Two Arrays| ✅ |
 
 
 
