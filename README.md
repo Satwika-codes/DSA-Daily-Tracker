@@ -344,6 +344,13 @@ Each folder contains solution files clearly named after the problem solved.
 | 10th Feb 2026| Sort Array By Parity II | ✅ |
 | 11th Feb 2026| Friends Of Appropriate Ages| ✅ |
 | 11th Feb 2026| Find the Distance Value Between Two Arrays| ✅ |
+| 12th Feb 2026| Valid Triangle Number| ✅ |
+| 12th Feb 2026| Shortest Distance to a Character| ✅ |
+
+
+
+
+
 
 
 
