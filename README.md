@@ -346,6 +346,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 11th Feb 2026| Find the Distance Value Between Two Arrays| ✅ |
 | 12th Feb 2026| Valid Triangle Number| ✅ |
 | 12th Feb 2026| Shortest Distance to a Character| ✅ |
+| 13th Feb 2026| Minimum Adjacent Swaps to Reach the Kth Smallest Number| ✅ |
+| 13th Feb 2026| Minimum Average of Smallest and Largest Elements| ✅ |
 
 
 
