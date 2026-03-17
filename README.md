@@ -348,6 +348,42 @@ Each folder contains solution files clearly named after the problem solved.
 | 12th Feb 2026| Shortest Distance to a Character| ✅ |
 | 13th Feb 2026| Minimum Adjacent Swaps to Reach the Kth Smallest Number| ✅ |
 | 13th Feb 2026| Minimum Average of Smallest and Largest Elements| ✅ |
+| 14th Feb 2026| Shortest Subarray to be Removed to Make Array Sorted| ✅ |
+| 14th Feb 2026| Reverse Words in a String III| ✅ |
+| 15th Feb 2026| Expressive Words| ✅ |
+| 15th Feb 2026| Squares of a Sorted Array| ✅ |
+| 16th Feb 2026| Push Dominoes| ✅ |
+| 16th Feb 2026| Find All K-Distant Indices in an Array| ✅ |
+| 17th Feb 2026| Maximum Width Ramp| ✅ |
+| 17th Feb 2026| Number of Arithmetic Triplets| ✅ | 
+| 18th Feb 2026| 3Sum| ✅ | 
+| 18th Feb 2026| Long Pressed Name| ✅ | 
+| 19th Feb 2026| Form Array by Concatenating Subarrays of Another Array| ✅ | 
+| 19th Feb 2026| Reverse Prefix of Word |✅ | 
+| 20th Feb 2026| Ways to Split Array Into Three Subarrays| ✅ | 
+| 20th Feb 2026| Check If a Word Occurs As a Prefix of Any Word in a Sentence
+| ✅ |
+| 21st Feb 2026|Longest String Chain | ✅ |
+| 21st Feb 2026| Find First Palindromic String in the Array| ✅ |
+| 22nd Feb 2026| Number of Subsequences That Satisfy the Given Sum Condition| ✅ |
+| 22nd Feb 2026| Find Indices With Index and Value Difference I| ✅ |
+| 23rd Feb 2026| The k Strongest Values in an Array| ✅ |
+| 23rd Feb 2026| Reverse Letters Then Special Characters in a String | ✅ |
+| 24th Feb 2026| Move Pieces to Obtain a String| ✅ |
+| 24th Feb 2026| Minimum Number of Flips to Reverse Binary String| ✅ |
+| 25th Feb 2026| Bag of Tokens| ✅ |
+| 25th Feb 2026| Number of Distinct Averages| ✅ |
+| 26th Feb 2026| Rearrange Array Elements by Sign| ✅ |
+| 26th Feb 2026| Remove Palindromic Subsequences| ✅ |
+| 27th Feb 2026| Pancake Sorting | ✅ |
+| 27th Feb 2026| Largest Positive Integer That Exists With Its Negative | ✅ |
+| 28th Feb 2026| Number of Ways Where Square of Number Is Equal to Product of Two Numbers | ✅ |
+| 28th Feb 2026| Check If String Is a Prefix of Array | ✅ |
+
+
+
+
+
 
 
 
