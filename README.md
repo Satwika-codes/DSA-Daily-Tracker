@@ -379,33 +379,45 @@ Each folder contains solution files clearly named after the problem solved.
 | 27th Feb 2026| Largest Positive Integer That Exists With Its Negative | ✅ |
 | 28th Feb 2026| Number of Ways Where Square of Number Is Equal to Product of Two Numbers | ✅ |
 | 28th Feb 2026| Check If String Is a Prefix of Array | ✅ |
+</details>
+<details>
+<summary>March 2026</summary>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Date | Problem Name | Status |
+|------|--------------|--------|
+| 1st Mar 2026 |  | ⬜ |
+| 2nd Mar 2026 |  | ⬜ |
+| 3rd Mar 2026 |  | ⬜ |
+| 4th Mar 2026 |  | ⬜ |
+| 5th Mar 2026 |  | ⬜ |
+| 6th Mar 2026 |  | ⬜ |
+| 7th Mar 2026 |  | ⬜ |
+| 8th Mar 2026 |  | ⬜ |
+| 9th Mar 2026 |  | ⬜ |
+| 10th Mar 2026 |  | ⬜ |
+| 11th Mar 2026 |  | ⬜ |
+| 12th Mar 2026 |  | ⬜ |
+| 13th Mar 2026 |  | ⬜ |
+| 14th Mar 2026 |  | ⬜ |
+| 15th Mar 2026 |  | ⬜ |
+| 16th Mar 2026 |  | ⬜ |
+| 17th Mar 2026 |  | ⬜ |
+| 18th Mar 2026 |  | ⬜ |
+| 19th Mar 2026 |  | ⬜ |
+| 20th Mar 2026 |  | ⬜ |
+| 21st Mar 2026 |  | ⬜ |
+| 22nd Mar 2026 |  | ⬜ |
+| 23rd Mar 2026 |  | ⬜ |
+| 24th Mar 2026 |  | ⬜ |
+| 25th Mar 2026 |  | ⬜ |
+| 26th Mar 2026 |  | ⬜ |
+| 27th Mar 2026 |  | ⬜ |
+| 28th Mar 2026 |  | ⬜ |
+| 29th Mar 2026 |  | ⬜ |
+| 30th Mar 2026 |  | ⬜ |
+| 31st Mar 2026 |  | ⬜ |
 
 </details>
-
   
 
 📌 How to Use
