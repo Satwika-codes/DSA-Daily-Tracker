@@ -385,38 +385,40 @@ Each folder contains solution files clearly named after the problem solved.
 
 | Date | Problem Name | Status |
 |------|--------------|--------|
-| 1st Mar 2026 |  | ⬜ |
-| 2nd Mar 2026 |  | ⬜ |
-| 3rd Mar 2026 |  | ⬜ |
-| 4th Mar 2026 |  | ⬜ |
-| 5th Mar 2026 |  | ⬜ |
-| 6th Mar 2026 |  | ⬜ |
-| 7th Mar 2026 |  | ⬜ |
-| 8th Mar 2026 |  | ⬜ |
-| 9th Mar 2026 |  | ⬜ |
-| 10th Mar 2026 |  | ⬜ |
-| 11th Mar 2026 |  | ⬜ |
-| 12th Mar 2026 |  | ⬜ |
-| 13th Mar 2026 |  | ⬜ |
-| 14th Mar 2026 |  | ⬜ |
-| 15th Mar 2026 |  | ⬜ |
-| 16th Mar 2026 |  | ⬜ |
-| 17th Mar 2026 |  | ⬜ |
-| 18th Mar 2026 |  | ⬜ |
-| 19th Mar 2026 |  | ⬜ |
-| 20th Mar 2026 |  | ⬜ |
-| 21st Mar 2026 |  | ⬜ |
-| 22nd Mar 2026 |  | ⬜ |
-| 23rd Mar 2026 |  | ⬜ |
-| 24th Mar 2026 |  | ⬜ |
-| 25th Mar 2026 |  | ⬜ |
-| 26th Mar 2026 |  | ⬜ |
-| 27th Mar 2026 |  | ⬜ |
-| 28th Mar 2026 |  | ⬜ |
-| 29th Mar 2026 |  | ⬜ |
-| 30th Mar 2026 |  | ⬜ |
-| 31st Mar 2026 |  | ⬜ |
-
+| 1st Mar 2026 | Adding Spaces to a String | ✅ |
+| 1st Mar 2026 | Earliest Finish Time for Land and Water Rides I | ✅ |
+| 2nd Mar 2026 | Make String a Subsequence Using Cyclic Increments | ✅ |
+| 2nd Mar 2026 | Count Pairs Whose Sum is Less than Target| ✅|
+| 3rd Mar 2026 | Successful Pairs of Spells and Potions | ✅ |
+| 3rd Mar 2026 | Minimum Common Value | ✅|
+| 4th Mar 2026 | Largest Merge Of Two Strings| ✅ |
+| 4th Mar 2026 | Check If N and Its Double Exist| ✅ |
+| 5th Mar 2026 | Partition Labels| ✅ |
+| 5th Mar 2026 | Intersection of Two Arrays II | ✅ |
+| 6thth Mar 2026 | Palindrome Linked List | ✅|
+| 6thth Mar 2026 | Remove Nth Node From End of List | ✅ |
+| 7th Mar 2026 | Merge Strings Alternately | ✅ |
+| 7th Mar 2026 | Maximum Number of Removable Characters | ✅ |
+| 8th Mar 2026 | Magical String | ✅|
+| 8th Mar 2026 | Merge Two 2D Arrays by Summing Values | ✅ |
+| 9th Mar 2026 | Flipping an Image| ✅ |
+| 9th Mar 2026 | 3Sum Closest | ✅ |
+| 10th Mar 2026 | Interval List Intersection | ✅|
+| 10th Mar 2026 | Lexicographically Smallest Palindrome| ✅ |
+| 11th Mar 2026 | Boats to Save People| ✅ |
+| 11th Mar 2026 | Maximum Enemy Forts That Can Be Captured| ✅|
+| 12th Mar 2026 | Maximum Twin Sum of a Linked List | ✅ |
+| 12th Mar 2026 | DI String Match | ✅ |
+| 13th Mar 2026 | Minimum Number of Swaps to Make the String Balanced| ✅ |
+| 13th Mar 2026 | Apply Operations to an Array| ✅|
+| 14th Mar 2026 | Heaters| ✅ |
+| 14th Mar 2026 | Backspace String Compare| ✅|
+| 15th Mar 2026 | Minimum Length of String After Deleting Similar Ends | ✅ |
+| 15th Mar 2026 | Remove Duplicates from Sorted List | ✅ |
+| 16th Mar 2026 | Intersection of Two Linked Lists | ✅ |
+| 16th Mar 2026 | Range Sum of Sorted Subarray Sums | ✅ |
+| 17th Mar 2026 | Maximum Average Subarray I | ✅ |
+| 17th Mar 2026 | Substrings of Size Three with Distinct Characters | ✅ |
 </details>
   
 
