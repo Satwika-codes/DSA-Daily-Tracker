@@ -348,28 +348,78 @@ Each folder contains solution files clearly named after the problem solved.
 | 12th Feb 2026| Shortest Distance to a Character| ✅ |
 | 13th Feb 2026| Minimum Adjacent Swaps to Reach the Kth Smallest Number| ✅ |
 | 13th Feb 2026| Minimum Average of Smallest and Largest Elements| ✅ |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 14th Feb 2026| Shortest Subarray to be Removed to Make Array Sorted| ✅ |
+| 14th Feb 2026| Reverse Words in a String III| ✅ |
+| 15th Feb 2026| Expressive Words| ✅ |
+| 15th Feb 2026| Squares of a Sorted Array| ✅ |
+| 16th Feb 2026| Push Dominoes| ✅ |
+| 16th Feb 2026| Find All K-Distant Indices in an Array| ✅ |
+| 17th Feb 2026| Maximum Width Ramp| ✅ |
+| 17th Feb 2026| Number of Arithmetic Triplets| ✅ | 
+| 18th Feb 2026| 3Sum| ✅ | 
+| 18th Feb 2026| Long Pressed Name| ✅ | 
+| 19th Feb 2026| Form Array by Concatenating Subarrays of Another Array| ✅ | 
+| 19th Feb 2026| Reverse Prefix of Word |✅ | 
+| 20th Feb 2026| Ways to Split Array Into Three Subarrays| ✅ | 
+| 20th Feb 2026| Check If a Word Occurs As a Prefix of Any Word in a Sentence
+| ✅ |
+| 21st Feb 2026|Longest String Chain | ✅ |
+| 21st Feb 2026| Find First Palindromic String in the Array| ✅ |
+| 22nd Feb 2026| Number of Subsequences That Satisfy the Given Sum Condition| ✅ |
+| 22nd Feb 2026| Find Indices With Index and Value Difference I| ✅ |
+| 23rd Feb 2026| The k Strongest Values in an Array| ✅ |
+| 23rd Feb 2026| Reverse Letters Then Special Characters in a String | ✅ |
+| 24th Feb 2026| Move Pieces to Obtain a String| ✅ |
+| 24th Feb 2026| Minimum Number of Flips to Reverse Binary String| ✅ |
+| 25th Feb 2026| Bag of Tokens| ✅ |
+| 25th Feb 2026| Number of Distinct Averages| ✅ |
+| 26th Feb 2026| Rearrange Array Elements by Sign| ✅ |
+| 26th Feb 2026| Remove Palindromic Subsequences| ✅ |
+| 27th Feb 2026| Pancake Sorting | ✅ |
+| 27th Feb 2026| Largest Positive Integer That Exists With Its Negative | ✅ |
+| 28th Feb 2026| Number of Ways Where Square of Number Is Equal to Product of Two Numbers | ✅ |
+| 28th Feb 2026| Check If String Is a Prefix of Array | ✅ |
 </details>
+<details>
+<summary>March 2026</summary>
 
+| Date | Problem Name | Status |
+|------|--------------|--------|
+| 1st Mar 2026 | Adding Spaces to a String | ✅ |
+| 1st Mar 2026 | Earliest Finish Time for Land and Water Rides I | ✅ |
+| 2nd Mar 2026 | Make String a Subsequence Using Cyclic Increments | ✅ |
+| 2nd Mar 2026 | Count Pairs Whose Sum is Less than Target| ✅|
+| 3rd Mar 2026 | Successful Pairs of Spells and Potions | ✅ |
+| 3rd Mar 2026 | Minimum Common Value | ✅|
+| 4th Mar 2026 | Largest Merge Of Two Strings| ✅ |
+| 4th Mar 2026 | Check If N and Its Double Exist| ✅ |
+| 5th Mar 2026 | Partition Labels| ✅ |
+| 5th Mar 2026 | Intersection of Two Arrays II | ✅ |
+| 6thth Mar 2026 | Palindrome Linked List | ✅|
+| 6thth Mar 2026 | Remove Nth Node From End of List | ✅ |
+| 7th Mar 2026 | Merge Strings Alternately | ✅ |
+| 7th Mar 2026 | Maximum Number of Removable Characters | ✅ |
+| 8th Mar 2026 | Magical String | ✅|
+| 8th Mar 2026 | Merge Two 2D Arrays by Summing Values | ✅ |
+| 9th Mar 2026 | Flipping an Image| ✅ |
+| 9th Mar 2026 | 3Sum Closest | ✅ |
+| 10th Mar 2026 | Interval List Intersection | ✅|
+| 10th Mar 2026 | Lexicographically Smallest Palindrome| ✅ |
+| 11th Mar 2026 | Boats to Save People| ✅ |
+| 11th Mar 2026 | Maximum Enemy Forts That Can Be Captured| ✅|
+| 12th Mar 2026 | Maximum Twin Sum of a Linked List | ✅ |
+| 12th Mar 2026 | DI String Match | ✅ |
+| 13th Mar 2026 | Minimum Number of Swaps to Make the String Balanced| ✅ |
+| 13th Mar 2026 | Apply Operations to an Array| ✅|
+| 14th Mar 2026 | Heaters| ✅ |
+| 14th Mar 2026 | Backspace String Compare| ✅|
+| 15th Mar 2026 | Minimum Length of String After Deleting Similar Ends | ✅ |
+| 15th Mar 2026 | Remove Duplicates from Sorted List | ✅ |
+| 16th Mar 2026 | Intersection of Two Linked Lists | ✅ |
+| 16th Mar 2026 | Range Sum of Sorted Subarray Sums | ✅ |
+| 17th Mar 2026 | Maximum Average Subarray I | ✅ |
+| 17th Mar 2026 | Substrings of Size Three with Distinct Characters | ✅ |
+</details>
   
 
 📌 How to Use
