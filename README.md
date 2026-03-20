@@ -419,6 +419,12 @@ Each folder contains solution files clearly named after the problem solved.
 | 16th Mar 2026 | Range Sum of Sorted Subarray Sums | ✅ |
 | 17th Mar 2026 | Maximum Average Subarray I | ✅ |
 | 17th Mar 2026 | Substrings of Size Three with Distinct Characters | ✅ |
+| 18th Mar 2026 | Count Substrings That Satisfy K-Constraint I | ✅ |
+| 18th Mar 2026 | Minimum Difference Between Highest and Lowest of K Scores | ✅ |
+| 19th Mar 2026 | Maximum Length Substring With Two Occurrences | ✅ |
+| 19th Mar 2026 | Alternating Groups I| ✅ |
+
+
 </details>
   
 
