@@ -425,6 +425,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 19th Mar 2026 | Alternating Groups I| ✅ |
 | 20th Mar 2026 | Longest Even Odd Subarray With Threshold| ✅ |
 | 20th Mar 2026 | Maximum Subarray With Equal Products| ✅ |
+| 21st Mar 2026 | Find the K-Beauty of a Number| ✅ |
+| 21st Mar 2026 | Minimum Recolors to Get K Consecutive Black Blocks| ✅ |
+| 22nd Mar 2026 | Sliding Window Maximum| ✅ |
+| 22nd Mar 2026 | Longest Turbulent Subarray | ✅ |
 
 
 </details>
