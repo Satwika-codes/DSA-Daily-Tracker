@@ -423,6 +423,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 18th Mar 2026 | Minimum Difference Between Highest and Lowest of K Scores | ✅ |
 | 19th Mar 2026 | Maximum Length Substring With Two Occurrences | ✅ |
 | 19th Mar 2026 | Alternating Groups I| ✅ |
+| 20th Mar 2026 | Longest Even Odd Subarray With Threshold| ✅ |
+| 20th Mar 2026 | Maximum Subarray With Equal Products| ✅ |
 
 
 </details>
