@@ -429,6 +429,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 21st Mar 2026 | Minimum Recolors to Get K Consecutive Black Blocks| ✅ |
 | 22nd Mar 2026 | Sliding Window Maximum| ✅ |
 | 22nd Mar 2026 | Longest Turbulent Subarray | ✅ |
+| 23rd Mar 2026 | Longest Duplicate Substring| ✅ |
+| 23rd Mar 2026 | Maximum Strong Pair XOR I| ✅ |
 
 
 </details>
