@@ -431,8 +431,14 @@ Each folder contains solution files clearly named after the problem solved.
 | 22nd Mar 2026 | Longest Turbulent Subarray | ✅ |
 | 23rd Mar 2026 | Longest Duplicate Substring| ✅ |
 | 23rd Mar 2026 | Maximum Strong Pair XOR I| ✅ |
-
-
+| 24th Mar 2026 | Smallest Range Covering Elements from K Lists| ✅ |
+| 24th Mar 2026 | Find X-Sum of All K-Long Subarrays I| ✅ |
+| 25th Mar 2026 | Minimum Adjacent Swaps for K Consecutive Ones| ✅ |
+| 25th Mar 2026 | Shortest Subarray With OR at Least K I| ✅ |
+| 26th Mar 2026 | Max Value of Equation| ✅ |
+| 26th Mar 2026 | Subarray Product Less Than K| ✅ |
+| 27th Mar 2026 | Maximum Sum of 3 Non-Overlapping Subarrays| ✅ |
+| 27th Mar 2026 | Longest Substring with At Least K Repeating Characters| ✅ |
 </details>
   
 
