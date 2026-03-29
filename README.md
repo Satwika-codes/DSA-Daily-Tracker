@@ -439,6 +439,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 26th Mar 2026 | Subarray Product Less Than K| ✅ |
 | 27th Mar 2026 | Maximum Sum of 3 Non-Overlapping Subarrays| ✅ |
 | 27th Mar 2026 | Longest Substring with At Least K Repeating Characters| ✅ |
+| 28th Mar 2026 | Minimum Number of K Consecutive Bit Flips| ✅ |
+| 28th Mar 2026 | Maximum Length of Repeated Subarray | ✅ |
+| 29th Mar 2026 | Sliding Window Median| ✅ |
+| 29th Mar 2026 | Maximum Sum of Two Non-Overlapping Subarrays| ✅ |
 </details>
   
 
