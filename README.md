@@ -443,6 +443,9 @@ Each folder contains solution files clearly named after the problem solved.
 | 28th Mar 2026 | Maximum Length of Repeated Subarray | ✅ |
 | 29th Mar 2026 | Sliding Window Median| ✅ |
 | 29th Mar 2026 | Maximum Sum of Two Non-Overlapping Subarrays| ✅ |
+| 30th Mar 2026 | Count Subarrays With Fixed Bounds| ✅ |
+| 30th Mar 2026 | Fruit Into Baskets| ✅ |
+
 </details>
   
 
