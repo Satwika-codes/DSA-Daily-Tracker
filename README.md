@@ -445,6 +445,76 @@ Each folder contains solution files clearly named after the problem solved.
 | 29th Mar 2026 | Maximum Sum of Two Non-Overlapping Subarrays| ✅ |
 | 30th Mar 2026 | Count Subarrays With Fixed Bounds| ✅ |
 | 30th Mar 2026 | Fruit Into Baskets| ✅ |
+| 31st Mar 2026 | Constrained Subsequence Sum| ✅ |
+| 31st Mar 2026 | Find Two Non-overlapping Sub-arrays Each With Target Sum | ✅ |
+
+
+</details>
+<details>
+<summary>April 2026</summary>
+
+| Date | Problem Name | Status |
+|------|--------------|--------|
+| 1st Apr 2026 |Apply Operations to Maximize Frequency Score | ✅ |
+| 1st Apr 2026 |Replace the Substring for Balanced String|✅|
+| 2nd Apr 2026 |Count Substrings That Can Be Rearranged to Contain a String II  |✅|
+| 2nd Apr 2026 |Number of Substrings Containing All Three Characters |✅|
+| 3rd Apr 2026 |  |  |
+| 3rd Apr 2026 |  |  |
+| 4th Apr 2026 |  |  |
+| 4th Apr 2026 |  |  |
+| 5th Apr 2026 |  |  |
+| 5th Apr 2026 |  |  |
+| 6th Apr 2026 |  |  |
+| 6th Apr 2026 |  |  |
+| 7th Apr 2026 |  |  |
+| 7th Apr 2026 |  |  |
+| 8th Apr 2026 |  |  |
+| 8th Apr 2026 |  |  |
+| 9th Apr 2026 |  |  |
+| 9th Apr 2026 |  |  |
+| 10th Apr 2026 |  |  |
+| 10th Apr 2026 |  |  |
+| 11th Apr 2026 |  |  |
+| 11th Apr 2026 |  |  |
+| 12th Apr 2026 |  |  |
+| 12th Apr 2026 |  |  |
+| 13th Apr 2026 |  |  |
+| 13th Apr 2026 |  |  |
+| 14th Apr 2026 |  |  |
+| 14th Apr 2026 |  |  |
+| 15th Apr 2026 |  |  |
+| 15th Apr 2026 |  |  |
+| 16th Apr 2026 |  |  |
+| 16th Apr 2026 |  |  |
+| 17th Apr 2026 |  |  |
+| 17th Apr 2026 |  |  |
+| 18th Apr 2026 |  |  |
+| 18th Apr 2026 |  |  |
+| 19th Apr 2026 |  |  |
+| 19th Apr 2026 |  |  |
+| 20th Apr 2026 |  |  |
+| 20th Apr 2026 |  |  |
+| 21st Apr 2026 |  |  |
+| 21st Apr 2026 |  |  |
+| 22nd Apr 2026 |  |  |
+| 22nd Apr 2026 |  |  |
+| 23rd Apr 2026 |  |  |
+| 23rd Apr 2026 |  |  |
+| 24th Apr 2026 |  |  |
+| 24th Apr 2026 |  |  |
+| 25th Apr 2026 |  |  |
+| 25th Apr 2026 |  |  |
+| 26th Apr 2026 |  |  |
+| 26th Apr 2026 |  |  |
+| 27th Apr 2026 |  |  |
+| 27th Apr 2026 |  |  |
+| 28th Apr 2026 |  |  |
+| 28th Apr 2026 |  |  |
+| 29th Apr 2026 |  |  |
+| 29th Apr 2026 |  |  |
+| 30th Apr 2026 |  |  |
+| 30th Apr 2026 |  |  |
 
 </details>
   
