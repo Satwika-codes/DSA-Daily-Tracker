@@ -459,14 +459,14 @@ Each folder contains solution files clearly named after the problem solved.
 | 1st Apr 2026 |Replace the Substring for Balanced String|✅|
 | 2nd Apr 2026 |Count Substrings That Can Be Rearranged to Contain a String II  |✅|
 | 2nd Apr 2026 |Number of Substrings Containing All Three Characters |✅|
-| 3rd Apr 2026 |N-Queens |  |
-| 3rd Apr 2026 |Max Consecutive Ones III |  |
-| 4th Apr 2026 |Odd Even Linked List  |  |
-| 4th Apr 2026 |Convert Binary Number in a Linked List to Integer  |  |
-| 5th Apr 2026 |  |  |
-| 5th Apr 2026 |  |  |
-| 6th Apr 2026 |  |  |
-| 6th Apr 2026 |  |  |
+| 3rd Apr 2026 |N-Queens | ✅ |
+| 3rd Apr 2026 |Max Consecutive Ones III | ✅ |
+| 4th Apr 2026 |Odd Even Linked List  | ✅ |
+| 4th Apr 2026 |Convert Binary Number in a Linked List to Integer  | ✅ |
+| 5th Apr 2026 |Add Two Numbers| ✅ |
+| 5th Apr 2026 |Longest Repeating Character Replacement  | ✅ |
+| 6th Apr 2026 |Defuse the Bomb | ✅ |
+| 6th Apr 2026 |Merge Two Sorted Lists  | ✅ |
 | 7th Apr 2026 |  |  |
 | 7th Apr 2026 |  |  |
 | 8th Apr 2026 |  |  |
