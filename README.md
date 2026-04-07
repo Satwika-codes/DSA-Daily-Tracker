@@ -467,8 +467,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 5th Apr 2026 |Longest Repeating Character Replacement  | ✅ |
 | 6th Apr 2026 |Defuse the Bomb | ✅ |
 | 6th Apr 2026 |Merge Two Sorted Lists  | ✅ |
-| 7th Apr 2026 |  |  |
-| 7th Apr 2026 |  |  |
+| 7th Apr 2026 |Reverse Nodes in k-Group |✅|
+| 7th Apr 2026 |Swap Nodes in Pairs  |✅ |
 | 8th Apr 2026 |  |  |
 | 8th Apr 2026 |  |  |
 | 9th Apr 2026 |  |  |
