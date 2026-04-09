@@ -469,8 +469,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 6th Apr 2026 |Merge Two Sorted Lists  | ✅ |
 | 7th Apr 2026 |Reverse Nodes in k-Group |✅|
 | 7th Apr 2026 |Swap Nodes in Pairs  |✅ |
-| 8th Apr 2026 |  |  |
-| 8th Apr 2026 |  |  |
+| 8th Apr 2026 |Reorder List  |✅ |
+| 8th Apr 2026 |Merge k Sorted Lists |✅ |
 | 9th Apr 2026 |  |  |
 | 9th Apr 2026 |  |  |
 | 10th Apr 2026 |  |  |
