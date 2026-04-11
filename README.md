@@ -471,7 +471,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 7th Apr 2026 |Swap Nodes in Pairs  |✅ |
 | 8th Apr 2026 |Reorder List  |✅ |
 | 8th Apr 2026 |Merge k Sorted Lists |✅ |
-| 9th Apr 2026 |  |  |
+| 9th Apr 2026 |LFU Cache | ✅ |
+| 9th Apr 2026 |Rotate List |✅  |
 | 9th Apr 2026 |  |  |
 | 10th Apr 2026 |  |  |
 | 10th Apr 2026 |  |  |
