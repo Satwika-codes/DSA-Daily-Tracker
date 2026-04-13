@@ -473,11 +473,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 8th Apr 2026 |Merge k Sorted Lists |✅ |
 | 9th Apr 2026 |LFU Cache | ✅ |
 | 9th Apr 2026 |Rotate List |✅  |
-| 9th Apr 2026 |  |  |
-| 10th Apr 2026 |  |  |
-| 10th Apr 2026 |  |  |
-| 11th Apr 2026 |  |  |
-| 11th Apr 2026 |  |  |
+| 10th Apr 2026 |Insertion Sort List  |✅  |
+| 10th Apr 2026 |Next Greater Node In Linked List | ✅ |
+| 11th Apr 2026 |Swapping Nodes in a Linked List | ✅ |
+| 11th Apr 2026 |Delete Node in a Linked List  | ✅ |
 | 12th Apr 2026 |  |  |
 | 12th Apr 2026 |  |  |
 | 13th Apr 2026 |  |  |
