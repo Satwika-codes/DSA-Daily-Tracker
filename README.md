@@ -477,10 +477,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 10th Apr 2026 |Next Greater Node In Linked List | ✅ |
 | 11th Apr 2026 |Swapping Nodes in a Linked List | ✅ |
 | 11th Apr 2026 |Delete Node in a Linked List  | ✅ |
-| 12th Apr 2026 |  |  |
-| 12th Apr 2026 |  |  |
-| 13th Apr 2026 |  |  |
-| 13th Apr 2026 |  |  |
+| 12th Apr 2026 |Reverse Linked List II  | ✅   |
+| 12th Apr 2026 |Find the Minimum and Maximum Number of Nodes Between Critical Points  | ✅   |
+| 13th Apr 2026 |Linked List in Binary Tree | ✅   |
+| 13th Apr 2026 |Populating Next Right Pointers in Each Node | ✅  |
 | 14th Apr 2026 |  |  |
 | 14th Apr 2026 |  |  |
 | 15th Apr 2026 |  |  |
