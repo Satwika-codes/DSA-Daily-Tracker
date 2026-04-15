@@ -481,10 +481,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 12th Apr 2026 |Find the Minimum and Maximum Number of Nodes Between Critical Points  | ✅   |
 | 13th Apr 2026 |Linked List in Binary Tree | ✅   |
 | 13th Apr 2026 |Populating Next Right Pointers in Each Node | ✅  |
-| 14th Apr 2026 |  |  |
-| 14th Apr 2026 |  |  |
-| 15th Apr 2026 |  |  |
-| 15th Apr 2026 |  |  |
+| 14th Apr 2026 |Flatten Binary Tree to Linked List | ✅ |
+| 14th Apr 2026 |Reverse Linked List | ✅ |
+| 15th Apr 2026 |Remove Zero Sum Consecutive Nodes from Linked List |✅|
+| 15th Apr 2026 |Linked List Components  |✅ |
 | 16th Apr 2026 |  |  |
 | 16th Apr 2026 |  |  |
 | 17th Apr 2026 |  |  |
