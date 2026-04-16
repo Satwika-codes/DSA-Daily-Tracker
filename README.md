@@ -485,8 +485,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 14th Apr 2026 |Reverse Linked List | ✅ |
 | 15th Apr 2026 |Remove Zero Sum Consecutive Nodes from Linked List |✅|
 | 15th Apr 2026 |Linked List Components  |✅ |
-| 16th Apr 2026 |  |  |
-| 16th Apr 2026 |  |  |
+| 16th Apr 2026 |Convert Sorted List to Binary Search Tree  |✅ |
+| 16th Apr 2026 |Linked List Cycle II |✅ |
 | 17th Apr 2026 |  |  |
 | 17th Apr 2026 |  |  |
 | 18th Apr 2026 |  |  |
