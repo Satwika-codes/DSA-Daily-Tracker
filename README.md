@@ -487,8 +487,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 15th Apr 2026 |Linked List Components  |✅ |
 | 16th Apr 2026 |Convert Sorted List to Binary Search Tree  |✅ |
 | 16th Apr 2026 |Linked List Cycle II |✅ |
-| 17th Apr 2026 |  |  |
-| 17th Apr 2026 |  |  |
+| 17th Apr 2026 |Populating Next Right Pointers in Each Node II  |✅|
+| 17th Apr 2026 |Remove Nodes From Linked List  |✅|
 | 18th Apr 2026 |  |  |
 | 18th Apr 2026 |  |  |
 | 19th Apr 2026 |  |  |
