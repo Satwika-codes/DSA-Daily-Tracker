@@ -489,8 +489,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 16th Apr 2026 |Linked List Cycle II |✅ |
 | 17th Apr 2026 |Populating Next Right Pointers in Each Node II  |✅|
 | 17th Apr 2026 |Remove Nodes From Linked List  |✅|
-| 18th Apr 2026 |  |  |
-| 18th Apr 2026 |  |  |
+| 18th Apr 2026 |Merge Nodes in Between Zeros  |✅|
+| 18th Apr 2026 |Delete Nodes From Linked List Present in Array  |✅|
 | 19th Apr 2026 |  |  |
 | 19th Apr 2026 |  |  |
 | 20th Apr 2026 |  |  |
