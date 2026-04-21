@@ -491,10 +491,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 17th Apr 2026 |Remove Nodes From Linked List  |✅|
 | 18th Apr 2026 |Merge Nodes in Between Zeros  |✅|
 | 18th Apr 2026 |Delete Nodes From Linked List Present in Array  |✅|
-| 19th Apr 2026 |  |  |
-| 19th Apr 2026 |  |  |
-| 20th Apr 2026 |  |  |
-| 20th Apr 2026 |  |  |
+| 19th Apr 2026 |Steps to Make Array Non-decreasing  |✅  |
+| 19th Apr 2026 |Merge In Between Linked Lists  |✅  |
+| 20th Apr 2026 |Increasing Order Search Tree  | ✅ |
+| 20th Apr 2026 |Make The String Great |✅  |
 | 21st Apr 2026 |  |  |
 | 21st Apr 2026 |  |  |
 | 22nd Apr 2026 |  |  |
