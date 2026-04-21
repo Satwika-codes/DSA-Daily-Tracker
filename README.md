@@ -495,8 +495,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 19th Apr 2026 |Merge In Between Linked Lists  |✅  |
 | 20th Apr 2026 |Increasing Order Search Tree  | ✅ |
 | 20th Apr 2026 |Make The String Great |✅  |
-| 21st Apr 2026 |  |  |
-| 21st Apr 2026 |  |  |
+| 21st Apr 2026 |Remove All Adjacent Duplicates In String  | ✅ |
+| 21st Apr 2026 |Final Prices With a Special Discount in a Shop | ✅ |
 | 22nd Apr 2026 |  |  |
 | 22nd Apr 2026 |  |  |
 | 23rd Apr 2026 |  |  |
