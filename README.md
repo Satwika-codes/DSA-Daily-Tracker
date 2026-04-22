@@ -497,8 +497,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 20th Apr 2026 |Make The String Great |✅  |
 | 21st Apr 2026 |Remove All Adjacent Duplicates In String  | ✅ |
 | 21st Apr 2026 |Final Prices With a Special Discount in a Shop | ✅ |
-| 22nd Apr 2026 |  |  |
-| 22nd Apr 2026 |  |  |
+| 22nd Apr 2026 |Valid Parenthesis String  |✅|
+| 22nd Apr 2026 |Asteroid Collision  |✅|
 | 23rd Apr 2026 |  |  |
 | 23rd Apr 2026 |  |  |
 | 24th Apr 2026 |  |  |
