@@ -499,8 +499,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 21st Apr 2026 |Final Prices With a Special Discount in a Shop | ✅ |
 | 22nd Apr 2026 |Valid Parenthesis String  |✅|
 | 22nd Apr 2026 |Asteroid Collision  |✅|
-| 23rd Apr 2026 |  |  |
-| 23rd Apr 2026 |  |  |
+| 23rd Apr 2026 |Maximum Binary Tree  |✅|
+| 23rd Apr 2026 |Minimum Additions to Make Valid String  |✅|
 | 24th Apr 2026 |  |  |
 | 24th Apr 2026 |  |  |
 | 25th Apr 2026 |  |  |
