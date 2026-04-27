@@ -501,8 +501,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 22nd Apr 2026 |Asteroid Collision  |✅|
 | 23rd Apr 2026 |Maximum Binary Tree  |✅|
 | 23rd Apr 2026 |Minimum Additions to Make Valid String  |✅|
-| 24th Apr 2026 |  |  |
-| 24th Apr 2026 |  |  |
+| 24th Apr 2026 |Find Maximum Non-decreasing Array Length  | ✅ |
+| 24th Apr 2026 |Smallest K-Length Subsequence With Occurrences of a Letter  |✅|
 | 25th Apr 2026 |  |  |
 | 25th Apr 2026 |  |  |
 | 26th Apr 2026 |  |  |
