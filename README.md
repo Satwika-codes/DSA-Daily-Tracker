@@ -509,8 +509,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 26th Apr 2026 |Number of Visible People in a Queue |✅|
 | 27th Apr 2026 |Sum of Total Strength of Wizards  |✅|
 | 27th Apr 2026 |Number of Students Unable to Eat Lunch |✅|
-| 28th Apr 2026 |  |  |
-| 28th Apr 2026 |  |  |
+| 28th Apr 2026 |Subarray With Elements Greater Than Varying Threshold |✅|
+| 28th Apr 2026 |Verify Preorder Serialization of a Binary Tree |✅|
 | 29th Apr 2026 |  |  |
 | 29th Apr 2026 |  |  |
 | 30th Apr 2026 |  |  |
