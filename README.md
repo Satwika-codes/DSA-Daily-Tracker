@@ -503,12 +503,12 @@ Each folder contains solution files clearly named after the problem solved.
 | 23rd Apr 2026 |Minimum Additions to Make Valid String  |✅|
 | 24th Apr 2026 |Find Maximum Non-decreasing Array Length  | ✅ |
 | 24th Apr 2026 |Smallest K-Length Subsequence With Occurrences of a Letter  |✅|
-| 25th Apr 2026 |  |  |
-| 25th Apr 2026 |  |  |
-| 26th Apr 2026 |  |  |
-| 26th Apr 2026 |  |  |
-| 27th Apr 2026 |  |  |
-| 27th Apr 2026 |  |  |
+| 25th Apr 2026 |Largest Rectangle in Histogram |✅|
+| 25th Apr 2026 |Remove Outermost Parentheses |✅|
+| 26th Apr 2026 |Binary Tree Inorder Traversal  |✅|
+| 26th Apr 2026 |Number of Visible People in a Queue |✅|
+| 27th Apr 2026 |Sum of Total Strength of Wizards  |✅|
+| 27th Apr 2026 |Number of Students Unable to Eat Lunch |✅|
 | 28th Apr 2026 |  |  |
 | 28th Apr 2026 |  |  |
 | 29th Apr 2026 |  |  |
