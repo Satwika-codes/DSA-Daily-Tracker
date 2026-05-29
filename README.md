@@ -511,10 +511,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 27th Apr 2026 |Number of Students Unable to Eat Lunch |✅|
 | 28th Apr 2026 |Subarray With Elements Greater Than Varying Threshold |✅|
 | 28th Apr 2026 |Verify Preorder Serialization of a Binary Tree |✅|
-| 29th Apr 2026 |  |  |
-| 29th Apr 2026 |  |  |
-| 30th Apr 2026 |  |  |
-| 30th Apr 2026 |  |  |
+| 29th Apr 2026 |Odd Even Jump  | ✅ |
+| 29th Apr 2026 |Maximum Nesting Depth of the Parentheses |✅  |
+| 30th Apr 2026 |Minimum Time to Complete All Tasks  |✅  |
+| 30th Apr 2026 |Count Collisions on a Road  |✅|
 
 </details>
   
