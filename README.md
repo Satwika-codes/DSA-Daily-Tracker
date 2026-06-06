@@ -517,6 +517,87 @@ Each folder contains solution files clearly named after the problem solved.
 | 30th Apr 2026 |Count Collisions on a Road  |✅|
 
 </details>
+<details>
+<summary>May 2026</summary>
+
+| Date | Problem Name | Status |
+|------|--------------|--------|
+| 1st May 2026 |Minimum String Length After Removing Substrings  | ✅ |
+| 2nd May 2026 |Crawler Log Folder  |✅  |
+| 3rd May 2026 |Clear Digits  |✅  |
+| 4th May 2026 |N-ary Tree Preorder Traversal  |✅  |
+| 5th May 2026 |Brace Expansion II  | ✅ |
+| 6th May 2026 |N-ary Tree Postorder Traversal  | ✅ |
+| 6th May 2026 |Parse Lisp Expression  |✅  |
+| 7th May 2026 |Basic Calculator II | ✅ |
+| 8th May 2026 |Evaluate Reverse Polish Notation| ✅ |
+| 8th May 2026 |Longest Absolute File Path|✅  |
+| 9th May 2026 |Exclusive Time of Functions  |✅  |
+| 9th May 2026 |Next Greater Element II | ✅ |
+| 10th May 2026 |Longest Well-Performing Interval  | ✅ |
+| 11th May 2026 |Reverse Substrings Between Each Pair of Parentheses  | ✅ |
+| 11th May 2026 |Minimum Cost Tree From Leaf Values | ✅ |
+| 12th May 2026 |Score of Parentheses |✅  |
+| 13th May 2026 |Daily Temperatures  |✅  |
+| 14th May 2026 |Beautiful Towers I  |✅ |
+| 15th May 2026 |Count Bowl Subarrays  | ✅ |
+| 16th May 2026 |Minimum Number of Increments on Subarrays to Form a Target Array  | ✅ |
+| 17th May 2026 |Maximum Balanced Shipments  | ✅|
+| 18th May 2026 |Make Array Non-decreasing  |✅  |
+| 19th May 2026 |Find Mirror Score of a String | ✅ |
+| 20th May 2026 |Clumsy Factorial  | ✅ |
+| 21st May 2026 |Beautiful Towers II  | ✅ |
+| 22nd May 2026 |Zuma Game |✅  |
+| 23rd May 2026 |Validate Stack Sequences  | ✅ |
+| 24th May 2026 |Add Two Numbers II  | ✅ |
+| 25th May 2026 |Resulting String After Adjacent Removals  | ✅ |
+| 26th May 2026 |Sum of Subarray Minimums  | ✅ |
+| 27th May 2026 |Minimum Deletions to Make String Balanced  | ✅ |
+| 28th May 2026 |132 Pattern  | ✅ |
+| 28th May 2026 |Parsing A Boolean Expression  |  ✅ |
+| 29th May 2026 |Simplify Path  | ✅  |
+| 30th May 2026 |Minimum Add to Make Parentheses Valid  |  ✅ |
+| 31st May 2026 |Max Chunks To Make Sorted  |  ✅|
+
+</details>
+
+<details>
+<summary>June 2026</summary>
+
+| Date | Problem Name | Status |
+|------|--------------|--------|
+| 1st Jun 2026 |Construct Binary Search Tree from Preorder Traversal | ✅ |
+| 2nd Jun 2026 |Maximum Nesting Depth of Two Valid Parentheses Strings  | ✅|
+| 3rd Jun 2026 |Remove K Digits  |✅ |
+| 4th Jun 2026 |Decoded String at Index  |✅  |
+| 5th Jun 2026 |Using a Robot to Print the Lexicographically Smallest String  | ✅ |
+| 6th Jun 2026 |Remove K-Balanced Substrings |✅ |
+| 7th Jun 2026 |  | ⬜ |
+| 8th Jun 2026 |  | ⬜ |
+| 9th Jun 2026 |  | ⬜ |
+| 10th Jun 2026 |  | ⬜ |
+| 11th Jun 2026 |  | ⬜ |
+| 12th Jun 2026 |  | ⬜ |
+| 13th Jun 2026 |  | ⬜ |
+| 14th Jun 2026 |  | ⬜ |
+| 15th Jun 2026 |  | ⬜ |
+| 16th Jun 2026 |  | ⬜ |
+| 17th Jun 2026 |  | ⬜ |
+| 18th Jun 2026 |  | ⬜ |
+| 19th Jun 2026 |  | ⬜ |
+| 20th Jun 2026 |  | ⬜ |
+| 21st Jun 2026 |  | ⬜ |
+| 22nd Jun 2026 |  | ⬜ |
+| 23rd Jun 2026 |  | ⬜ |
+| 24th Jun 2026 |  | ⬜ |
+| 25th Jun 2026 |  | ⬜ |
+| 26th Jun 2026 |  | ⬜ |
+| 27th Jun 2026 |  | ⬜ |
+| 28th Jun 2026 |  | ⬜ |
+| 29th Jun 2026 |  | ⬜ |
+| 30th Jun 2026 |  | ⬜ |
+
+</details>
   
 
 📌 How to Use
