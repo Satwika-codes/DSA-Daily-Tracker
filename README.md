@@ -572,7 +572,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 4th Jun 2026 |Decoded String at Index  |✅  |
 | 5th Jun 2026 |Using a Robot to Print the Lexicographically Smallest String  | ✅ |
 | 6th Jun 2026 |Remove K-Balanced Substrings |✅ |
-| 7th Jun 2026 |  | ⬜ |
+| 7th Jun 2026 |Maximum Sum Circular Subarray  | ✅  |
+| 7th Jun 2026 |Continuous Subarrays  | ✅ |
 | 8th Jun 2026 |  | ⬜ |
 | 9th Jun 2026 |  | ⬜ |
 | 10th Jun 2026 |  | ⬜ |
