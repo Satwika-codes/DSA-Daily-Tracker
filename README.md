@@ -574,7 +574,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 6th Jun 2026 |Remove K-Balanced Substrings |✅ |
 | 7th Jun 2026 |Maximum Sum Circular Subarray  | ✅  |
 | 7th Jun 2026 |Continuous Subarrays  | ✅ |
-| 8th Jun 2026 |  | ⬜ |
+| 8th Jun 2026 |Number of Recent Calls  | ✅  |
+| 8th Jun 2026 |Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | ✅|
 | 9th Jun 2026 |  | ⬜ |
 | 10th Jun 2026 |  | ⬜ |
 | 11th Jun 2026 |  | ⬜ |
