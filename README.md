@@ -576,11 +576,16 @@ Each folder contains solution files clearly named after the problem solved.
 | 7th Jun 2026 |Continuous Subarrays  | ✅ |
 | 8th Jun 2026 |Number of Recent Calls  | ✅  |
 | 8th Jun 2026 |Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | ✅|
-| 9th Jun 2026 |  | ⬜ |
-| 10th Jun 2026 |  | ⬜ |
-| 11th Jun 2026 |  | ⬜ |
-| 12th Jun 2026 |  | ⬜ |
-| 13th Jun 2026 |  | ⬜ |
+| 9th Jun 2026 |Reveal Cards In Increasing Order |✅ |
+| 9th Jun 2026 |Number of People Aware of a Secret | ✅ |
+| 10th Jun 2026 |Find the Winner of the Circular Game  | ✅ |
+| 10th Jun 2026 |Time Needed to Buy Tickets  | ✅|
+| 11th Jun 2026 |Minimum Number of Coins for Fruits  | ✅ |
+| 11th Jun 2026 |Minimum Operations to Make Binary Array Elements Equal to One I  | ✅ |
+| 12th Jun 2026 |Jump Game VI  | ✅|
+| 12th Jun 2026 |Shortest Subarray with Sum at Least K  | ✅ |
+| 13th Jun 2026 |Maximum Depth of Binary Tree  | ✅ |
+| 13th Jun 2026 |Invert Binary Tree  | ✅ |
 | 14th Jun 2026 |  | ⬜ |
 | 15th Jun 2026 |  | ⬜ |
 | 16th Jun 2026 |  | ⬜ |
