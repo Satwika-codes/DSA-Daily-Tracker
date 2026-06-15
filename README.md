@@ -586,8 +586,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 12th Jun 2026 |Shortest Subarray with Sum at Least K  | ✅ |
 | 13th Jun 2026 |Maximum Depth of Binary Tree  | ✅ |
 | 13th Jun 2026 |Invert Binary Tree  | ✅ |
-| 14th Jun 2026 |  | ⬜ |
-| 15th Jun 2026 |  | ⬜ |
+| 14th Jun 2026 |Count Complete Tree Nodes  | ✅ |
+| 14th Jun 2026 |Diameter of Binary Tree | ✅ |
+| 15th Jun 2026 |Same Tree  | ✅ |
+| 15th Jun 2026 |Path Sum  | ✅ |
 | 16th Jun 2026 |  | ⬜ |
 | 17th Jun 2026 |  | ⬜ |
 | 18th Jun 2026 |  | ⬜ |
