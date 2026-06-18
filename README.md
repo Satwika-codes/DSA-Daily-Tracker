@@ -590,9 +590,12 @@ Each folder contains solution files clearly named after the problem solved.
 | 14th Jun 2026 |Diameter of Binary Tree | ✅ |
 | 15th Jun 2026 |Same Tree  | ✅ |
 | 15th Jun 2026 |Path Sum  | ✅ |
-| 16th Jun 2026 |  | ⬜ |
-| 17th Jun 2026 |  | ⬜ |
-| 18th Jun 2026 |  | ⬜ |
+| 16th Jun 2026 |Minimum Depth of Binary Tree   |✅ |
+| 16th Jun 2026 |Sum of Left Leaves  | ✅ |
+| 17th Jun 2026 |Find Mode in Binary Search Tree  | ✅ |
+| 17th Jun 2026 |Sum of Root To Leaf Binary Numbers   | ✅ |
+| 18th Jun 2026 |Minimum Absolute Difference in BST   | ✅ |
+| 18th Jun 2026 |Maximum Depth of N-ary Tree    | ✅ |
 | 19th Jun 2026 |  | ⬜ |
 | 20th Jun 2026 |  | ⬜ |
 | 21st Jun 2026 |  | ⬜ |
