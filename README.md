@@ -598,8 +598,10 @@ Each folder contains solution files clearly named after the problem solved.
 | 18th Jun 2026 |Maximum Depth of N-ary Tree    | ✅ |
 | 19th Jun 2026 |Subtree of Another Tree  |✅ |
 | 19th Jun 2026 |Search in a Binary Search Tree | ✅ |
-| 20th Jun 2026 |  | ⬜ |
-| 21st Jun 2026 |  | ⬜ |
+| 20th Jun 2026 |Evaluate Boolean Binary Tree  | ✅ |
+| 20th Jun 2026 |Average of Levels in Binary Tree  | ✅ |
+| 21st Jun 2026 |Kth Smallest Element in a BST  | ✅ |
+| 21st Jun 2026 |Sum Root to Leaf Numbers  | ✅ |
 | 22nd Jun 2026 |  | ⬜ |
 | 23rd Jun 2026 |  | ⬜ |
 | 24th Jun 2026 |  | ⬜ |
