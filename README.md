@@ -596,7 +596,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 17th Jun 2026 |Sum of Root To Leaf Binary Numbers   | ✅ |
 | 18th Jun 2026 |Minimum Absolute Difference in BST   | ✅ |
 | 18th Jun 2026 |Maximum Depth of N-ary Tree    | ✅ |
-| 19th Jun 2026 |  | ⬜ |
+| 19th Jun 2026 |Subtree of Another Tree  |✅ |
+| 19th Jun 2026 |Search in a Binary Search Tree | ✅ |
 | 20th Jun 2026 |  | ⬜ |
 | 21st Jun 2026 |  | ⬜ |
 | 22nd Jun 2026 |  | ⬜ |
