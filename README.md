@@ -602,7 +602,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 20th Jun 2026 |Average of Levels in Binary Tree  | ✅ |
 | 21st Jun 2026 |Kth Smallest Element in a BST  | ✅ |
 | 21st Jun 2026 |Sum Root to Leaf Numbers  | ✅ |
-| 22nd Jun 2026 |  | ⬜ |
+| 22nd Jun 2026 |Merge Two Binary Trees  | ✅|
+| 22nd Jun 2026 |Second Minimum Node In a Binary Tree  |✅|
 | 23rd Jun 2026 |  | ⬜ |
 | 24th Jun 2026 |  | ⬜ |
 | 25th Jun 2026 |  | ⬜ |
