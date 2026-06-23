@@ -604,7 +604,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 21st Jun 2026 |Sum Root to Leaf Numbers  | ✅ |
 | 22nd Jun 2026 |Merge Two Binary Trees  | ✅|
 | 22nd Jun 2026 |Second Minimum Node In a Binary Tree  |✅|
-| 23rd Jun 2026 |  | ⬜ |
+| 23rd Jun 2026 |Minimum Distance Between BST Nodes |✅ |
+| 23rd Jun 2026 |Find a Corresponding Node of a Binary Tree in a Clone of That Tree | ✅ |
 | 24th Jun 2026 |  | ⬜ |
 | 25th Jun 2026 |  | ⬜ |
 | 26th Jun 2026 |  | ⬜ |
