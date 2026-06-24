@@ -606,7 +606,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 22nd Jun 2026 |Second Minimum Node In a Binary Tree  |✅|
 | 23rd Jun 2026 |Minimum Distance Between BST Nodes |✅ |
 | 23rd Jun 2026 |Find a Corresponding Node of a Binary Tree in a Clone of That Tree | ✅ |
-| 24th Jun 2026 |  | ⬜ |
+| 24th Jun 2026 |Root Equals Sum of Children  |✅|
+| 24th Jun 2026 |Cousins in Binary Tree  |✅|
 | 25th Jun 2026 |  | ⬜ |
 | 26th Jun 2026 |  | ⬜ |
 | 27th Jun 2026 |  | ⬜ |
