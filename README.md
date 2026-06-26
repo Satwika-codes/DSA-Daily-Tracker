@@ -608,7 +608,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 23rd Jun 2026 |Find a Corresponding Node of a Binary Tree in a Clone of That Tree | ✅ |
 | 24th Jun 2026 |Root Equals Sum of Children  |✅|
 | 24th Jun 2026 |Cousins in Binary Tree  |✅|
-| 25th Jun 2026 |  | ⬜ |
+| 25th Jun 2026 |Convert Sorted Array to Binary Search Tree  | ✅ |
+| 25th Jun 2026 |Balanced Binary Tree| ✅ |
 | 26th Jun 2026 |  | ⬜ |
 | 27th Jun 2026 |  | ⬜ |
 | 28th Jun 2026 |  | ⬜ |
