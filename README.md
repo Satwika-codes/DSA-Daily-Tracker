@@ -610,7 +610,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 24th Jun 2026 |Cousins in Binary Tree  |✅|
 | 25th Jun 2026 |Convert Sorted Array to Binary Search Tree  | ✅ |
 | 25th Jun 2026 |Balanced Binary Tree| ✅ |
-| 26th Jun 2026 |  | ⬜ |
+| 26th Jun 2026 |Binary Tree Preorder Traversal  | ✅|
+| 26th Jun 2026 |Binary Tree Postorder Traversal  | ✅ |
 | 27th Jun 2026 |  | ⬜ |
 | 28th Jun 2026 |  | ⬜ |
 | 29th Jun 2026 |  | ⬜ |
