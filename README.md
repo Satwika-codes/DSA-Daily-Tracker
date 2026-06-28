@@ -614,7 +614,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 26th Jun 2026 |Binary Tree Postorder Traversal  | ✅ |
 | 27th Jun 2026 |Unique Binary Search Trees  | ✅ |
 | 27th Jun 2026 |Validate Binary Search Tree | ✅ |
-| 28th Jun 2026 |  | ⬜ |
+| 28th Jun 2026 |Recover Binary Search Tree  | ✅ |
+| 28th Jun 2026 |Binary Tree Level Order Traversal  | ✅ |
 | 29th Jun 2026 |  | ⬜ |
 | 30th Jun 2026 |  | ⬜ |
 
