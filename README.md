@@ -612,7 +612,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 25th Jun 2026 |Balanced Binary Tree| ✅ |
 | 26th Jun 2026 |Binary Tree Preorder Traversal  | ✅|
 | 26th Jun 2026 |Binary Tree Postorder Traversal  | ✅ |
-| 27th Jun 2026 |  | ⬜ |
+| 27th Jun 2026 |Unique Binary Search Trees  | ✅ |
+| 27th Jun 2026 |Validate Binary Search Tree | ✅ |
 | 28th Jun 2026 |  | ⬜ |
 | 29th Jun 2026 |  | ⬜ |
 | 30th Jun 2026 |  | ⬜ |
