@@ -616,7 +616,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 27th Jun 2026 |Validate Binary Search Tree | ✅ |
 | 28th Jun 2026 |Recover Binary Search Tree  | ✅ |
 | 28th Jun 2026 |Binary Tree Level Order Traversal  | ✅ |
-| 29th Jun 2026 |  | ⬜ |
+| 29th Jun 2026 |Binary Tree Zigzag Level Order Traversal  | ✅ |
+| 29th Jun 2026 |Path Sum II  |✅|
 | 30th Jun 2026 |  | ⬜ |
 
 </details>
