@@ -618,7 +618,8 @@ Each folder contains solution files clearly named after the problem solved.
 | 28th Jun 2026 |Binary Tree Level Order Traversal  | ✅ |
 | 29th Jun 2026 |Binary Tree Zigzag Level Order Traversal  | ✅ |
 | 29th Jun 2026 |Path Sum II  |✅|
-| 30th Jun 2026 |  | ⬜ |
+| 30th Jun 2026 |Smallest Subtree with all the Deepest Nodes  | ✅ |
+| 30th Jun 2026 |Path Sum III | ✅|
 
 </details>
   
